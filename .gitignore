@@ -1,3 +1,10 @@
+# Ignore all
+*
+# Exclude c, cpp Makefile
+!*.c
+!*.cpp
+!Makefile
+!*.cu
 # Prerequisites
 *.d
 
